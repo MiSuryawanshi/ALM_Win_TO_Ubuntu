@@ -1,0 +1,71 @@
+Jenkins:
+1.Java code CI/CD
+2.Created Pipeline Job with Groovy script
+3.created jenkins master slave architecture
+4.Jenkins integration with jira and bitbucket
+5.Used web hooks for automatic job build
+6.Performed static code analysis using sonarQube
+
+python code:
+1.created python webApp "hostInfo" which returns host information
+2.created connection between python code and database
+3.Implementation of get method in python code
+
+Docker:
+1.created docker file for python webApp
+2.Build docker image to run container using port forwading
+
+AWS:
+1.Created aws architecture using aws console (vpc,subnet,routing table,ec2)
+2.Created aws EC2 with user data  
+3.Created aws AMI using packer tool
+4.Launched EC2 using Auto Scaling Group
+5.Written Lambda Code to Stop Running instances at particular time
+6.Created aws architecture (VPC,Subnet,route table,igw,etc) using Terraform
+7.Created aws architecture using Modules in Terraform module registry
+8.Created aws architecture using Cloud Formation
+9.Added Elb to created architecture
+10.created docker image using aws codebuild and pushed that image in ECR repo and dockerhub
+11.created Aws ECS architecture using ECS console
+12.created Aws ECS architecture using Terraform 
+13.created jenkins master slave architecture on aws ec2
+14.Implemented single sign on with okta
+15.Pushed terraform state file on terraform cloud
+
+kubernetes:
+1.created kubernetes architecture on aws ec2
+2.deployed pod using nodeport
+3.deployed pod using clusterIp
+4.deployed pod using hostport
+5.created helm chart
+6.Implemented volume mounting using hostpath
+7.Implemented volume mounting using pv
+8.Implemented volume mounting using emptydir
+9.Implemented connection between database and code using service file
+
+Gitlab:
+1.CI/CD of python code on gitlab
+======================================================================================================================
+
+studied:
+1.networking group in docker
+2.docker compose
+3.AUFS
+4.cgroup and namespaces
+5.docker volume
+6.IP table
+7.Direct connect
+8.private link
+9.transit gateway
+10.control tower
+11.fargate
+12.SNS,SQS
+13.Redshift
+14.secrets manager
+15.assume role
+16.IAM
+17.s3
+18.cloud front
+19.route53
+20.cloud watch
+21.Cloud trail
