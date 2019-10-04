@@ -1,0 +1,69 @@
+Hi All,
+
+Please cover following networking topics. You need to present by 6th September.
+
+Public IP vs Private IP
+Routers
+Switches
+Firewalls
+Loadbalancers
+Subnetting
+Nating
+Pating
+Switching Protocol
+Httpd and apache
+ftp
+DNS
+cname
+zones
+master-slve
+DHCP
+PaaS, Saas, IaaS
+Infra as Code
+Reverse Proxy
+Virtual Host
+SSL
+OSI layers
+
+Assignments
+1.	Read about basic networking concepts
+2.	learn 50 most commonly used linux commands, learn vim 
+3.	learn how to install a web server in Centos | Ubuntu | windows
+4.	deploy and configure Nginx
+5.	Learn One scripting language (e.g. Python, Bash etc.)
+Please read these topics. I will keep adding more.
+
+
+Regards,
+Aparna Nigdikar
+
+________________________________________
+From: Aparna Nigdikar <aparnan@cybage.com>
+Sent: Monday, August 26, 2019 7:51 PM
+To: Jayesh Sanjay Pawar <jayeshpaw@cybage.com>; Ruchika Dhnyaneshwar Raghorte <ruchikar@cybage.com>; Arvindkumar Madanlal Gupta <arvindkumarg@cybage.com>; Punit Gour <punitg@cybage.com>; Mangesh Arun Suryawanshi <mangeshsu@cybage.com>
+Cc: Nagendra Shekhawat <nagendrash@cybage.com>; Devesh Yadav <deveshy@cybage.com>
+Subject: Re: Docker POC list 
+ 
+Hi All,
+
+Please send status of below given 6 Docker POCs. 
+
+Aparna
+
+________________________________________
+From: Aparna Nigdikar
+Sent: Tuesday, August 13, 2019 11:21 AM
+To: Jayesh Sanjay Pawar <jayeshpaw@cybage.com>; Ruchika Dhnyaneshwar Raghorte <ruchikar@cybage.com>; Arvindkumar Madanlal Gupta <arvindkumarg@cybage.com>; Punit Gour <punitg@cybage.com>; Mangesh Arun Suryawanshi <mangeshsu@cybage.com>
+Cc: Nagendra Shekhawat <nagendrash@cybage.com>; Devesh Yadav <deveshy@cybage.com>
+Subject: Docker POC list 
+ 
+1.       Build a Docker image of app. Take any app source code example phpapp or nodejsapp
+2.       Docker Linking. Run two containers frontend and backend for example nodejs as frontend and mongodb as backend run Docker container by binding container port to custom host port
+3.       Docker volume Management : Attach volume to a db Container. then run same container on another host with volume data mounted and check if data persists
+4.       Dockercompose: Implement all above pocs with dockercompose also.
+ 
+ 
+Thanks and Regards,
+Aparna Nigdikar
+Ext: 8419
+ 
